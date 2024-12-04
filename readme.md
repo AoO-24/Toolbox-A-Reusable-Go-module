@@ -10,7 +10,7 @@
 
 A simple example of how to create a reusable Go module with commonly used tools.
 
-The included tools are:
+The included tools are: 
 
 - Read JSON
 - Write JSON
